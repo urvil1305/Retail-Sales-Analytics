@@ -52,19 +52,19 @@ Interactive Dashboards
 
 ### Executive Sales Analytics Dashboard
 
-(image)
+![Executive Dashboard](dashboards/Executive_Dashboard.png)
 
 ### Product Analysis Dashboard
 
-(image)
+![Product Dashboard](dashboards/Product_Analysis_Dashboard.png)
 
 ### Customer Analysis Dashboard
 
-(image)
+![Customer Dashboard](dashboards/Customer_Analysis_Dashboard.png)
 
 ### Profitability Analysis Dashboard
 
-(image)
+![Profitability Dashboard](dashboards/Profitability_Analysis_Dashboard.png)
 
 ## Key Business Insights
 
