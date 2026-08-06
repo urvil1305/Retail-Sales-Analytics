@@ -31,20 +31,28 @@ The workflow includes:
 - GitHub
 
 Raw CSV
+     
      ↓
 Python ETL
+
      ↓
 EDA
+     
      ↓
 MySQL
+     
      ↓
 SQL Analysis
+     
      ↓
 Power BI
+     
      ↓
 Star Schema
+     
      ↓
 DAX
+     
      ↓
 Interactive Dashboards
 
